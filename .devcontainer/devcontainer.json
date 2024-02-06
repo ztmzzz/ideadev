@@ -2,5 +2,5 @@
   //	name of the dev container
   "name": "jdk21",
   //	Or use a Dockerfile here, more info: https://containers.dev/guide/dockerfile
-  "image":  "openjdk:21"
+  "image":  "ubuntu:latest"
 }
